@@ -1,0 +1,9 @@
+{
+  "endOfLine": "lf",
+  "trailingComma": "es5",
+  "printWidth": 70,
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "htmlWhitespaceSensitivity": "css"
+}

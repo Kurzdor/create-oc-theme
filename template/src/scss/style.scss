@@ -1,0 +1,10 @@
+
+@import 'variables';
+
+// Normalize default browser's styles by https://necolas.github.io/normalize.css/
+@import 'normalize-scss/sass/normalize/_import-now.scss';
+
+@import 'scaffolding';
+
+// Styles
+@import 'layout';
